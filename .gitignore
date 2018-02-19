@@ -1,0 +1,6 @@
+*.h.gch
+*.o
+build-Klondike-Desktop-Debug/
+docs/
+build/
+xhanze10.tar.gz

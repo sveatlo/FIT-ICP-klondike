@@ -1,0 +1,5 @@
+/**
+ *  @file FILENAME
+ *  @brief FILE DESCRIPTIOn
+ *  @author Svätopluk Hanzel (xhanze10), FIT VUT, 2BIT, a.y. 2016/2017
+ */

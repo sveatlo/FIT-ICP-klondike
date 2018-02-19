@@ -1,0 +1,127 @@
+{
+    "foundations": [
+        {
+            "cards": [
+                {"rank": 1, "suite": 1, "turned": true },
+                {"rank": 2, "suite": 1, "turned": true },
+                {"rank": 3, "suite": 1, "turned": true },
+                {"rank": 4, "suite": 1, "turned": true },
+                {"rank": 5, "suite": 1, "turned": true },
+                {"rank": 6, "suite": 1, "turned": true },
+                {"rank": 7, "suite": 1, "turned": true },
+                {"rank": 8, "suite": 1, "turned": true },
+                {"rank": 9, "suite": 1, "turned": true },
+                {"rank": 10, "suite": 1, "turned": true },
+                {"rank": 11, "suite": 1, "turned": true },
+                {"rank": 12, "suite": 1, "turned": true }
+            ],
+            "n": 0,
+            "type": 3
+        },
+        {
+            "cards": [
+                {"rank": 1, "suite": 2, "turned": true },
+                {"rank": 2, "suite": 2, "turned": true },
+                {"rank": 3, "suite": 2, "turned": true },
+                {"rank": 4, "suite": 2, "turned": true },
+                {"rank": 5, "suite": 2, "turned": true },
+                {"rank": 6, "suite": 2, "turned": true },
+                {"rank": 7, "suite": 2, "turned": true },
+                {"rank": 8, "suite": 2, "turned": true },
+                {"rank": 9, "suite": 2, "turned": true },
+                {"rank": 10, "suite": 2, "turned": true },
+                {"rank": 11, "suite": 2, "turned": true },
+                {"rank": 12, "suite": 2, "turned": true },
+                {"rank": 13, "suite": 2, "turned": true }
+            ],
+            "n": 1,
+            "type": 3
+        },
+        {
+            "cards": [
+                {"rank": 1, "suite": 3, "turned": true },
+                {"rank": 2, "suite": 3, "turned": true },
+                {"rank": 3, "suite": 3, "turned": true },
+                {"rank": 4, "suite": 3, "turned": true },
+                {"rank": 5, "suite": 3, "turned": true },
+                {"rank": 6, "suite": 3, "turned": true },
+                {"rank": 7, "suite": 3, "turned": true },
+                {"rank": 8, "suite": 3, "turned": true },
+                {"rank": 9, "suite": 3, "turned": true },
+                {"rank": 10, "suite": 3, "turned": true },
+                {"rank": 11, "suite": 3, "turned": true },
+                {"rank": 12, "suite": 3, "turned": true },
+                {"rank": 13, "suite": 3, "turned": true }
+            ],
+            "n": 2,
+            "type": 3
+        },
+        {
+            "cards": [
+                {"rank": 1, "suite": 4, "turned": true },
+                {"rank": 2, "suite": 4, "turned": true },
+                {"rank": 3, "suite": 4, "turned": true },
+                {"rank": 4, "suite": 4, "turned": true },
+                {"rank": 5, "suite": 4, "turned": true },
+                {"rank": 6, "suite": 4, "turned": true },
+                {"rank": 7, "suite": 4, "turned": true },
+                {"rank": 8, "suite": 4, "turned": true },
+                {"rank": 9, "suite": 4, "turned": true },
+                {"rank": 10, "suite": 4, "turned": true },
+                {"rank": 11, "suite": 4, "turned": true },
+                {"rank": 12, "suite": 4, "turned": true }
+            ],
+            "n": 3,
+            "type": 3
+        }
+    ],
+    "heap": {
+        "cards": [
+            {"rank": 13, "suite": 4, "turned": false }
+        ],
+        "n": 0,
+        "type": 1
+    },
+    "stacks": [
+        {
+            "cards": [{"rank": 13, "suite": 1, "turned": true }],
+            "n": 0,
+            "type": 4
+        },
+        {
+            "cards": [],
+            "n": 1,
+            "type": 4
+        },
+        {
+            "cards": [],
+            "n": 2,
+            "type": 4
+        },
+        {
+            "cards": [],
+            "n": 3,
+            "type": 4
+        },
+        {
+            "cards": [],
+            "n": 4,
+            "type": 4
+        },
+        {
+            "cards": [],
+            "n": 5,
+            "type": 4
+        },
+        {
+            "cards": [],
+            "n": 6,
+            "type": 4
+        }
+    ],
+    "waste": {
+        "cards": [],
+        "n": 0,
+        "type": 2
+    }
+}
